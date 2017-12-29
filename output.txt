@@ -1,0 +1,44 @@
+Copyright (c) 1992-1993 The Regents of the University of California.
+Entering JNachos v1.0
+C:\Users\shara\Desktop\osnew\JNachosLab2Solution\test\fork
+here
+SysCall:9
+Process ID: 1
+FORK SYSTEM CALL  IS INVOKED BY  PROCESS : 1
+SysCall:3
+Process ID: 1
+JOIN SYSTEM CALL IS INVOKED BY PROCESS 1
+PROCESS  1 will be put to sleep and will wait for the process :-2 to finish execution 
+ Fork-Create a new NachosProcess (the child).
+Child Process is invoked now 
+SysCall:3
+Process ID: 2
+JOIN SYSTEM CALL IS INVOKED BY PROCESS 2
+SysCall:2
+Process ID: 2
+EXEC SYSTEM CALL IS BEING CALLED BY PROCESS 2
+here
+The file being executed is test/matmult
+SysCall:1
+Process ID: 2
+Current Process C:\Users\shara\Desktop\osnew\JNachosLab2Solution\test\forkchild exiting with code 7220
+SysCall:2
+Process ID: 1
+EXEC SYSTEM CALL IS BEING CALLED BY PROCESS 1
+here
+The file being executed is test/sort
+SysCall:1
+Process ID: 1
+Current Process C:\Users\shara\Desktop\osnew\JNachosLab2Solution\test\fork exiting with code 1023
+No threads ready or runnable, and no pending interrupts.
+
+Assuming the program completed.
+
+Machine halting!
+
+
+Ticks: total 18654014, idle 34, system 90, user 18653890
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
