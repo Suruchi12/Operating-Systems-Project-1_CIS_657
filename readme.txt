@@ -1,10 +1,4 @@
 Project -1
-Sharath Babu Srinivas-488732390
-Collabrated with 
-Suruchi Singh -755238759
-
-
-
 Program Arguments:
 Unzip the file JNachosLabLab2Solution into your workspace and use the option new and project from existing workspace to run in IntelliJ
 for eclipse
