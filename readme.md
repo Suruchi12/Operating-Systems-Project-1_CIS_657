@@ -12,7 +12,7 @@ For running this project, Create a new project from an existing source and unche
 
 ## My program arguements used to run the program
 IDE Used:IntelliJ.Eclipse
--x C:\Users\shara\Desktop\osnew\JNachosLab2Solution\test\fork
+-x /Users/suruchisingh/Desktop/POS/Project2/project2/test/fork
 Output of the program can be found in output.txt
 
 Runs for two files when separated by comma 
