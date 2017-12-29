@@ -1,18 +1,23 @@
-Project -1
-Program Arguments:
+# System Calls in JNachos
+
+#### Operating Systems
+#### CIS 657
+#### Project 1
+
+## Program Arguments:
 Unzip the file JNachosLabLab2Solution into your workspace and use the option new and project from existing workspace to run in IntelliJ
 for eclipse
 For running this project, Create a new project from an existing source and uncheck the "use default location" box and find the directory where your project is.
 
 
-My program arguements used to run the program
+## My program arguements used to run the program
 IDE Used:IntelliJ.Eclipse
 -x C:\Users\shara\Desktop\osnew\JNachosLab2Solution\test\fork
 Output of the program can be found in output.txt
 
 Runs for two files when separated by comma 
 
-
+### Working
 
 Implemented Join,Fork,Exit,Exec System Calls
 Fork System call 
