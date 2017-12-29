@@ -17,7 +17,7 @@ Output of the program can be found in output.txt
 
 Runs for two files when separated by comma 
 
-### Working
+### Workings of the Project
 
 Implemented Join,Fork,Exit,Exec System Calls
 Fork System call 
